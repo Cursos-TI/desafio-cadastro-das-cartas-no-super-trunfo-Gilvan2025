@@ -30,20 +30,6 @@ printf("estado: %s - area:%f - pontos turisticos: %d", estado,area, pontos turis
 printf("pib: %f - carta: %s - cidade%s", pib, carta, cidade);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
